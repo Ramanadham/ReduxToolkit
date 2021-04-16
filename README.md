@@ -5,6 +5,9 @@
 
 In the project directory, you can run:
 
+### `npm install`
+Run the command to load node_modules
+
 ### `node server`
 
 Runs the app API server.\
