@@ -1,6 +1,5 @@
 # React App With Redux Toolkit, MeterialUI, server Express.js and used JWT Token for authentication
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
